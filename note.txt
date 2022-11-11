@@ -2,3 +2,4 @@ Learn Git & Github
 - Git itu tempat buat mengelola file secara simultan
 - Github itu layanan cloud untuk git
 - commit, branch, merge, pull & push
+- membuat branch dam merge 
